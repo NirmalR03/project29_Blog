@@ -47,16 +47,8 @@ nav ul a {
 	cursor: pointer;
 }
 
-/* .fa-plus-circle {
-	margin-right: 0.8em;
-} */
 
-/* .body-div1, .body-div2 {
-	margin-left: 150px;
-	margin-right: 150px;
-} */
-
-.body-div1 {
+.bodyDiv1 {
 	margin-top: 25px;
 	font-size: 24px;
 	line-height: 33px;
@@ -68,7 +60,7 @@ nav ul a {
 
 .article-card {
 	width: 320px;
-	margin: 30rem 0;
+	margin-left: 200px;
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-between;
@@ -91,7 +83,7 @@ nav ul a {
 #image{
 	margin-top: 30px;
 }
-.body-div2 {
+.bodyDiv2 {
 	display: flex;
 	flex-direction: row ;
 	/* justify-content: space-between; */
